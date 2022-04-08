@@ -30,18 +30,10 @@ The code in this notebook is for us to find the best model in predicting how lik
 
 ## Machine Learning(Logistic Regression)
 
-Conclusion
-Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-Popularity of the casts and crews have higher linear correlation value with ratings
-Resampling imbalanced data improved model performance especially on the minority class
-Logistic Regression did not perform well with non-linearly correlated variables
-Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
-What did we learn from this project?
-Handling imbalanced datasets using resampling methods and imblearn package
-Neural Networks, Keras and Tensorflow
+# Findings
+
+# Learning Points
+Resampling datasets with imbalanced data
 Logistic Regression from sklearn
-API Usage
-Other packages such as tqdm, json, requests
 Collaborating using GitHub
-Concepts about Precision, Recall, and F1 Score
+
