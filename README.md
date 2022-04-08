@@ -19,7 +19,7 @@ Given the profile of an individual, how can we use these variables to predict th
 Which model best predicts the best outcome?
 
 # Notebooks
-Data Cleaning
+## Data Cleaning
 Neural Networks
 
 Conclusion
