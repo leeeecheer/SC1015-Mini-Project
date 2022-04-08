@@ -33,9 +33,7 @@ The code in this notebook is for us to find the best model in predicting how lik
 # Findings
 
 # Learning Points
-Resampling datasets with imbalanced data
-
-Logistic Regression from sklearn
-
-Collaborating using GitHub
+* Resampling datasets with imbalanced data
+* Logistic Regression from sklearn
+* Collaborating using GitHub
 
