@@ -29,8 +29,7 @@ The code in this notebook is to extract the individual variables from the datase
 The code in this notebook is for us to find the best model in predicting how likely a person will default a loan. For this notebook, it is split into 4 parts. Before we started, we used one hot encoder to convert categorical variables into numbers. For our first model, we did Mulitvariate Classification for numeric, categorical, numeric and categorical variables to predict the Risk_Class. For our second model, we upsampled the data for Risk_Class as there is a huge imbalance. For the third model, we made use of Random Forest to ensemble mulitple trees for a better prediction. Finally, we looked for the model that produces the best accuracy for our tree with respect to its depth.
 
 ## Machine Learning(Logistic Regression)
-
-# Findings
+The code in this notebook is for us to explore other methods that were not taught in the lectures. We have decided to use logistic regression as it is a model that allows us to predict categorical responses with our predictors. For this model, we used one hot encoder and upsampled our data so that the response variable will not be imbalanced. This model has helped us learn how to apply models that we find online to help us in our predictions.
 
 # Learning Points
 * Resampling datasets with imbalanced data
