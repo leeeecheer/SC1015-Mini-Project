@@ -3,11 +3,10 @@
 # About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicing loans based on customer behaviour. For a detailed walkthrough, please view the source code in this order:
 
-1. Data Extraction
-2. Data Visualization
-3. Data Resampling and Splitting
-4. Decision Tree and Random Forest
-5. Logistic Regression
+1. Data Preparation and Cleaning
+2. Exploratory Data Analysis
+3. Classification Tree and Random Forest
+4. Logistic Regression
 
 # Contributors
 @sunwen_12
