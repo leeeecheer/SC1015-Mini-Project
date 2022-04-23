@@ -5,8 +5,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. Data Preparation and Cleaning
 2. Exploratory Data Analysis
-3. Classification Tree and Random Forest
+3. Machine Learning
 4. Logistic Regression
+5. Further Insights
 
 # Contributors
 @sunwen_12
