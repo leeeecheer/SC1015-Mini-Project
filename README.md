@@ -23,7 +23,7 @@ We have made several datasets so that each dataset will be ready for modeling or
 
 # Notebooks
 ## Data Cleaning and Preparation
-The code in this notebook is cleaned to ensure that there are no null values or values which do not fit the category of the column. For data cleaning, we removed the ID column as we find it unnecessary since we can use the indexes of the column. For data preparation, we added the Risk_Class column which is the representative of the Risk_Flag column but with object values instead.
+The code in this notebook is cleaned to ensure that there are no null values or values which do not fit the category of the column. For data cleaning, we removed the ID column since we can just use the indexes of the column. For data preparation, we added the Risk_Class column which is the representative of the Risk_Flag column but with object values instead.
 
 ## Exploratory Data Analysis
 The code in this notebook is to extract the individual variables from the dataset for visualisation. We have conducted both Uni-variate and Bi-variate analysis to aid us in our visualisation. For Uni-variate visualisation, we checked each variable through the use of barplots and by printing the values of those with too many values(CITY). For Bi-variate visualisation, we used boxplots and a pairplot to compare the numerical variables to the Risk_Class column. When comparing categorical variables to Risk_Class, we used barplots and heatmaps. For complex relationships where we analysed the numeric variables based on the Risk_Class, we used a jointplot and a correlogram to visualise the data.
