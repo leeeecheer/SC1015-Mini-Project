@@ -39,3 +39,6 @@ The code in this notebook is for us to explore other methods that were not taugh
 * Logistic Regression from sklearn
 * Collaborating using GitHub
 
+# References
+* https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?datasetId=1532161&sortBy=voteCount
+* https://slidesgo.com/
